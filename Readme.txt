@@ -1,6 +1,7 @@
 
 author: Matthew Takasaki, B00901845
 
+site URL: https://csci3172lab6takasakimatt.netlify.app/
 
 references: 
 
