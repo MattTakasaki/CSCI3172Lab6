@@ -1,0 +1,50 @@
+
+.lab6 {
+  font-family: Andale Mono,AndaleMono,monospace; 
+  color: white;
+  display: flex;
+  flex-flow: column;
+  
+  
+}
+*{
+  background-color: #35374B;
+}
+
+.title-section {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #344955;
+}
+
+.header p{
+  background-color: #78A083;
+  padding-left: 1em;
+}
+.header{
+  background-color: #78A083;
+}
+
+.title-section h2{
+  padding-left: 1em;
+  background-color: #344955;
+}
+
+.about-section {
+  display: flex;
+  flex-flow: row;
+  background-color: #78A083;
+}
+
+.about-portion {
+  margin: 1em;
+  padding: 1%;
+  background-color: #50727B;
+}
+
+.about-portion p, h3{
+  background-color: #50727B;
+}
+.about-portion img {
+  max-width: 100%;
+}
